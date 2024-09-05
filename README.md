@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [code-blogs](https://github.com/khlongwa-code/code-blogs)
 
-- 🤝 I’m looking for help with **HTML, CSS and Django.**
+- 🤝 I’m looking for help with **Nodejs, MongoDB, JavaScript, HTML, CSS**
 
 - 💬 Ask me about **Python and Java from basics to intermediate stuff.**
 
