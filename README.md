@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [code-blogs](https://github.com/khlongwa-code/code-blogs)
 
-- 🌱 I’m currently learning **Django, data structures and algorithms in java and data analysis with Python.**
+- 🌱 I’m currently learning **Nodejs, MongoDB, JavaScript, HTML, CSS**
 
 - 👯 I’m looking to collaborate on [code-blogs](https://github.com/khlongwa-code/code-blogs)
 
