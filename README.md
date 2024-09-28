@@ -1,6 +1,6 @@
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=B89A05&random=false&width=435&lines=Hi%2C+I+am+Kusasalakhe+Hlongwa+%F0%9F%A4%97" alt="Typing SVG" /></a></div>
-<h3 align="center">A passionate programmer currently in college</h3>
+<h3 align="center">A passionate software developer looking for internships and entry positions</h3>
 
 - 🔭 I’m currently working on [code-blogs](https://github.com/khlongwa-code/code-blogs)
 
