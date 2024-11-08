@@ -1,26 +1,67 @@
+## 👋🏾 Introduction
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=B89A05&random=false&width=435&lines=Hi%2C+I+am+Kusasalakhe+Hlongwa+%F0%9F%A4%97" alt="Typing SVG" /></a></div>
-<h3 align="center">A passionate software developer looking for internships and entry positions</h3>
+- Hello, I'm Botshelo, a seasoned developer with over 5 years of experience crafting software solutions.
+- My expertise spans across backend systems, and full-stack web applications, with a primary focus on Mobile Development.
+- I embarked on my coding journey at the age of 13, evolving from a self-taught developer to pursuing formal education in Software Development at WeThinkCode after freelancing and consulting for 2-3 years. Along the way, I've had the opportunity to work for a couple of companies.
 
-- 🔭 I’m currently working on [code-blogs](https://github.com/khlongwa-code/code-blogs)
+### ✨ Highlights
+- 🌱 Currently honing my skills in **Android Mobile Development (Kotlin)**.
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/botshelo-ramela/) or [X / Twitter](https://x.com/BotsheloRamela_).
+- 📩 Open to collaboration opportunities - feel free to contact me: **ramelabotshelo12@gmail.com**.
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS**
 
-- 👯 I’m looking to collaborate on [code-blogs](https://github.com/khlongwa-code/code-blogs)
+## 👨🏾‍💻 My Tech Stack
 
-- 🤝 I’m looking for help with **JavaScript, HTML, CSS**
+#### Languages
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-- 💬 Ask me about **Python and Java from basics to intermediate stuff.**
+#### Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 📫 How to reach me **ayandahlongwa0766@gmail.com**
+#### Hosting/SaaS/BaaS
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-- ⚡ Fun fact **I suck at following instructions.**
+#### CI
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<h3 align="center">Connect with me:</h3>
+#### Other
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<br/>
+<hr/>
+<br/>
+
 <p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BotsheloRamela&theme=radical&border=7F3FBF&background=0D1117" alt="Botshelo's GitHub streak"/>
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<br>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=B89A05&random=false&width=435&lines=Thanks+for+visiting+my+GitHub+%F0%9F%AB%B6" alt="Typing SVG" /></a></p>
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BotsheloRamela&theme=radical" alt="Botshelo's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/alsiam"><img alt="Botshelo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=BotsheloRamela&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Botshelo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BotsheloRamela&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
